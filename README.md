@@ -302,15 +302,9 @@
 <p>
   <img
     align="center"
-    src="https://github-readme-stats.vercel.app/api?username=siddhesh1564&show_icons=true&locale=en"
+    src="https://github-readme-stats.vercel.app/api?username=siddhesh1564&hide=contribs&show_icons=true&theme=dark"
     alt="siddhesh1564"
   />
 </p>
 
-<p>
-  <img
-    align="center"
-    src="https://github-readme-streak-stats.herokuapp.com/?user=siddhesh1564&"
-    alt="siddhesh1564"
-  />
-</p>
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=siddhesh1564&theme=dark&hide_border=false&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" /></a>
