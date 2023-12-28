@@ -31,8 +31,9 @@
   /></a>
 </p>
 
-- 🌱 I’m currently learning **machine learning** - 💬 Ask me about **machine
-learning, DSA** - 📫 How to reach me **khairnarsiddhesh4057@gmail.com**
+- 🌱 I’m currently learning **machine learning**
+- 💬 Ask me about **machine learning, DSA**
+- 📫 How to reach me **khairnarsiddhesh4057@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
