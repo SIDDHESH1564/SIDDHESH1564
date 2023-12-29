@@ -26,6 +26,9 @@
 - 💬 Ask me about **machine learning, DSA**
 - 📫 How to reach me **khairnarsiddhesh4057@gmail.com**
 
+
+ <br> <br>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://twitter.com/siddhesh0403" target="blank"
@@ -81,6 +84,13 @@
       width="40"
   /></a>
 </p>
+
+
+
+ <br> <br>
+
+
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
@@ -289,6 +299,10 @@
     />
   </a>
 </p>
+
+
+ <br> <br>
+
 
 <p align="center" style="height: 150px;">
   <img width="48%" height="150px" src="https://github-readme-stats.vercel.app/api?username=siddhesh1564&hide=contribs&show_icons=true&theme=dark" alt="siddhesh1564 GitHub Stats" />
