@@ -29,65 +29,6 @@
 
  <br> <br>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://twitter.com/siddhesh0403" target="blank"
-    ><img
-      align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
-      alt="siddhesh0403"
-      height="30"
-      width="40"
-  /></a>
-  <a
-    href="https://www.linkedin.com/in/siddhesh-khairnar-4234a3226"
-    target="blank"
-    ><img
-      align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-      alt="https://www.linkedin.com/in/siddhesh-khairnar-4234a3226"
-      height="30"
-      width="40"
-  /></a>
-  <a href="https://stackoverflow.com/users/22512579" target="blank"
-    ><img
-      align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg"
-      alt="22512579"
-      height="30"
-      width="40"
-  /></a>
-  <a href="https://kaggle.com/sidd0012" target="blank"
-    ><img
-      align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg"
-      alt="sidd0012"
-      height="30"
-      width="40"
-  /></a>
-  <a href="https://www.instagram.com/siddhesh_khairnar/" target="blank"
-    ><img
-      align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
-      alt="https://www.instagram.com/siddhesh_khairnar/"
-      height="30"
-      width="40"
-  /></a>
-  <a
-    href="https://auth.geeksforgeeks.org/user/https://auth.geeksforgeeks.org/user/khairnarsiddhesh4057"
-    target="blank"
-    ><img
-      align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg"
-      alt="https://auth.geeksforgeeks.org/user/khairnarsiddhesh4057"
-      height="30"
-      width="40"
-  /></a>
-</p>
-
-
-
- <br> <br>
 
 
 
@@ -308,3 +249,66 @@
   <img width="48%" height="150px" src="https://github-readme-stats.vercel.app/api?username=siddhesh1564&hide=contribs&show_icons=true&theme=dark" alt="siddhesh1564 GitHub Stats" />
   <img width="48%" height="150px" src="https://github-readme-streak-stats.herokuapp.com?user=siddhesh1564&theme=dark&hide_border=false&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
 </p>
+
+
+
+
+ <br> <br>
+
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+  <a href="https://twitter.com/siddhesh0403" target="blank"
+    ><img
+      align="center"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
+      alt="siddhesh0403"
+      height="30"
+      width="40"
+  /></a>
+  <a
+    href="https://www.linkedin.com/in/siddhesh-khairnar-4234a3226"
+    target="blank"
+    ><img
+      align="center"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+      alt="https://www.linkedin.com/in/siddhesh-khairnar-4234a3226"
+      height="30"
+      width="40"
+  /></a>
+  <a href="https://stackoverflow.com/users/22512579" target="blank"
+    ><img
+      align="center"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg"
+      alt="22512579"
+      height="30"
+      width="40"
+  /></a>
+  <a href="https://kaggle.com/sidd0012" target="blank"
+    ><img
+      align="center"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg"
+      alt="sidd0012"
+      height="30"
+      width="40"
+  /></a>
+  <a href="https://www.instagram.com/siddhesh_khairnar/" target="blank"
+    ><img
+      align="center"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
+      alt="https://www.instagram.com/siddhesh_khairnar/"
+      height="30"
+      width="40"
+  /></a>
+  <a
+    href="https://auth.geeksforgeeks.org/user/https://auth.geeksforgeeks.org/user/khairnarsiddhesh4057"
+    target="blank"
+    ><img
+      align="center"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg"
+      alt="https://auth.geeksforgeeks.org/user/khairnarsiddhesh4057"
+      height="30"
+      width="40"
+  /></a>
+</p>
+
