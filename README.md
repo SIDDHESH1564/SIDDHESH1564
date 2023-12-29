@@ -298,7 +298,7 @@
   </a>
 </p>
 
-<p align="center" style="height: 200px;">
-  <img width="48%" height="100%" src="https://github-readme-stats.vercel.app/api?username=siddhesh1564&hide=contribs&show_icons=true&theme=dark" alt="siddhesh1564 GitHub Stats" />
-  <img width="48%" height="100%" src="https://github-readme-streak-stats.herokuapp.com?user=siddhesh1564&theme=dark&hide_border=false&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
+<p align="center" style="height: 150px;">
+  <img width="48%" height="150px" src="https://github-readme-stats.vercel.app/api?username=siddhesh1564&hide=contribs&show_icons=true&theme=dark" alt="siddhesh1564 GitHub Stats" />
+  <img width="48%" height="150px" src="https://github-readme-streak-stats.herokuapp.com?user=siddhesh1564&theme=dark&hide_border=false&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
 </p>
