@@ -26,15 +26,10 @@
 - 💬 Ask me about **machine learning, DSA**
 - 📫 How to reach me **khairnarsiddhesh4057@gmail.com**
 
+<br>
 
- <br> <br>
-
-
-
-
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
+<h3 align="center">Languages and Tools:</h3>
+<p align="center">
   <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
     <img
       src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg"
@@ -241,23 +236,17 @@
   </a>
 </p>
 
-
- <br> <br>
-
-
+<br>
+<h3 align="center">Languages and Tools:</h3>
 <p align="center" style="height: 150px;">
   <img width="48%" height="150px" src="https://github-readme-stats.vercel.app/api?username=siddhesh1564&hide=contribs&show_icons=true&theme=dark" alt="siddhesh1564 GitHub Stats" />
   <img width="48%" height="150px" src="https://github-readme-streak-stats.herokuapp.com?user=siddhesh1564&theme=dark&hide_border=false&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
 </p>
 
+<br>
 
-
-
- <br> <br>
-
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h3 align="center">Connect with me:</h3>
+<p align="center">
   <a href="https://twitter.com/siddhesh0403" target="blank"
     ><img
       align="center"
