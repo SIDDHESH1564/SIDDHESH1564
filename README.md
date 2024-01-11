@@ -35,9 +35,9 @@
 <h1 align="left" style="font-family: cursive;"> 📊 GitHub Insights</h1>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=siddhesh1564&theme=onedark" alt="siddhesh1564" width="930px" height="125px"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=siddhesh1564&hide=contribs&show_icons=true&theme=dark" alt="GitHub Stats"  height="175px" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=siddhesh1564&theme=dark&hide_border=false&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" height="175px"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=siddhesh1564&theme=onedark" alt="siddhesh1564"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=siddhesh1564&hide=contribs&show_icons=true&theme=dark" alt="GitHub Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=siddhesh1564&theme=dark&hide_border=false&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak"/>
 </p>
 
 <h1 align="left" style="font-family: cursive;"> 🤝Let's Connect</h1>
