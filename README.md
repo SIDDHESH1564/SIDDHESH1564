@@ -44,7 +44,7 @@
 
 <p align="center">
 <p align="center">
-  <a href="https://twitter.com/siddhesh0403" target="blank"
+  <a href="https://twitter.com/siddhesh0403" target="_blank"
     ><img
       align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
@@ -54,7 +54,7 @@
   /></a>
   <a
     href="https://www.linkedin.com/in/siddhesh-khairnar-4234a3226"
-    target="blank"
+    target="_blank"
     ><img
       align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
@@ -62,7 +62,7 @@
       height="30"
       width="40"
   /></a>
-  <a href="https://stackoverflow.com/users/22512579" target="blank"
+  <a href="https://stackoverflow.com/users/22512579" target="_blank"
     ><img
       align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg"
@@ -70,7 +70,7 @@
       height="30"
       width="40"
   /></a>
-  <a href="https://kaggle.com/sidd0012" target="blank"
+  <a href="https://kaggle.com/sidd0012" target="_blank"
     ><img
       align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg"
@@ -78,7 +78,7 @@
       height="30"
       width="40"
   /></a>
-  <a href="https://www.instagram.com/siddhesh_khairnar/" target="blank"
+  <a href="https://www.instagram.com/siddhesh_khairnar/" target="_blank"
     ><img
       align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
@@ -88,7 +88,7 @@
   /></a>
   <a
     href="https://auth.geeksforgeeks.org/user/https://auth.geeksforgeeks.org/user/khairnarsiddhesh4057"
-    target="blank"
+    target="_blank"
     ><img
       align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg"
