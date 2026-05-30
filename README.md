@@ -29,7 +29,7 @@ I am an Associate Software Engineer at Red Hat working at the intersection of so
   <li> 🏫 Institute: Vishwakarma Institute of Information Technology, Pune </li>
   <li> 📍 Location: Pune, India</li>
   <li> 💬 Let's Chat: Feel free to reach out if you have questions about ML, DSA or any other tech-related topic!</li>
-  <li> 📫 Reach me at [khairnarsiddhesh4057@gmail.com](mailto:khairnarsiddhesh4057@gmail.com)</li>
+  <li> 📫 Reach me at <a href="mailto:khairnarsiddhesh4057@gmail.com"><img src="https://img.shields.io/badge/khairnarsiddhesh4057@gmail.com-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"/></a></li>
 </p>
 
 <h1 align="left" style="font-family: cursive;"> 🤝Let's Connect</h1>
