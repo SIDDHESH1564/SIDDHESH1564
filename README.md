@@ -1,4 +1,6 @@
-<h1 align="left" style="font-family: cursive;">Hello, I'm Siddhesh Khairnar</h1>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hi,%20I'm%20Siddhesh%20Khairnar%20👋&fontSize=36&fontAlignY=35&animation=fadeIn" />
+</p>
 
 <h1 align="left" style="font-family: cursive;">👋 Introduction</h1>
 
