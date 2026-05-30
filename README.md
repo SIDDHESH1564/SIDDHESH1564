@@ -9,8 +9,6 @@ I am an Associate Software Engineer at Red Hat working at the intersection of so
 
 <h1 align="left" style="font-family: cursive;"> 🔧 Technologies & Tools</h1>
 
-<p style="font-family: cursive;"> I use a variety of technologies and tools, including:</p>
-
 <p style="font-family: 'YourDesiredCursiveFont', cursive;">
   <li> Programming Languages: Python, Javascript, HTML, CSS, C++, C, Java</li>
   <li> Frontend: React, Bootstrap</li>
