@@ -4,7 +4,7 @@
 
 
 <p style="font-family: cursive;">
-  Hello! I'm Siddhesh Dilip Khairnar, a Full Stack Web Developer with a passion for Machine Learning and Data Science. Welcome to my GitHub profile, where I code, build, and explore the exciting realms of data-driven technologies.
+I am an Associate Software Engineer at Red Hat working at the intersection of software engineering, AI/ML, and scalable systems. I focus on building reliable, production-oriented solutions and contributing to open-source projects across the AI and cloud-native ecosystems.
 </p>
 
 <h1 align="left" style="font-family: cursive;"> 🔧 Technologies & Tools</h1>
@@ -30,14 +30,6 @@
   <li> 📍 Location: Pune, India</li>
   <li> 💬 Let's Chat: Feel free to reach out if you have questions about ML, DSA or any other tech-related topic!</li>
   <li> 📫 Reach me at [khairnarsiddhesh4057@gmail.com](mailto:khairnarsiddhesh4057@gmail.com)</li>
-</p>
-
-<h1 align="left" style="font-family: cursive;"> 📊 GitHub Insights</h1>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=siddhesh1564&theme=onedark" alt="siddhesh1564" width="100%"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=siddhesh1564&theme=dark&show_icons=true&hide_border=true&count_private=true&card_width=1000" width="100%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=siddhesh1564&theme=dark&show_icons=true&hide_border=true&card_width=1000" width="100%"/>
 </p>
 
 <h1 align="left" style="font-family: cursive;"> 🤝Let's Connect</h1>
@@ -78,11 +70,11 @@
       height="30"
       width="40"
   /></a>
-  <a href="https://www.instagram.com/siddhesh_khairnar/" target="_blank"
+  <a href="https://www.instagram.com/sidnavio/" target="_blank"
     ><img
       align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
-      alt="https://www.instagram.com/siddhesh_khairnar/"
+      alt="https://www.instagram.com/sidnavio/"
       height="30"
       width="40"
   /></a>
